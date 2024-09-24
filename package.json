@@ -23,7 +23,11 @@
   "dependencies": {
     "@electron-toolkit/preload": "^3.0.0",
     "@electron-toolkit/utils": "^3.0.0",
+    "@vicons/ionicons5": "^0.12.0",
+    "d3": "^7.9.0",
     "electron-updater": "^6.1.7",
+    "pinia": "^2.2.2",
+    "pinia-plugin-persistedstate": "^4.0.1",
     "vue-router": "^4.4.4"
   },
   "devDependencies": {
